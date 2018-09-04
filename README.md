@@ -13,6 +13,21 @@ You need:
 Now you have to solder it like in schematics:
 ![SCHEMATICS](https://raw.github.com/FabLab-Luenen/BigMcLighting/master/pictures/schematics.jpg)
 
+Now Install the Software:
+https://github.com/FabLab-Luenen/McLighting
+
+Replace the definitions.h in McLighting/Arduino with those of this repo.
+
+Replace the data directory in McLighting/Arduino with those of this repo.
+
+Connect to the AP of the lamp.
+
+Select your wlan and connect to it.
+
+Open http://[ip_of_lamp]/upload in your browser.
+
+Upload all files within the data folder.
+
 If you assembled it all correctly it should look like this:
 ![RESULT1](https://raw.github.com/FabLab-Luenen/BigMcLighting/master/pictures/result1.jpg)
 
