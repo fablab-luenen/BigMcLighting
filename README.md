@@ -15,12 +15,13 @@ Now you have to solder it like in schematics:
 
 Now Install the Software:
 
-Download Repo from https://github.com/FabLab-Luenen/McLighting and load into Arduino IDE.
-
+Download Repo from https://github.com/FabLab-Luenen/McLighting.
 
 Replace the definitions.h in McLighting/Arduino with those of this repo.
 
 Replace the data directory in McLighting/Arduino with those of this repo.
+
+Load it into Arduino IDE and install all libraries referenced in https://github.com/FabLab-Luenen/McLighting.
 
 Apply settings as shown:
 
