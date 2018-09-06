@@ -49,3 +49,6 @@ and this:
 
 ![RESULT3](https://raw.github.com/FabLab-Luenen/BigMcLighting/master/pictures/result3.gif)
 
+You can support us with a donation
+
+[![paypal](https://www.paypalobjects.com/en_US/DE/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KNJ2WK3V5Y32Q)
